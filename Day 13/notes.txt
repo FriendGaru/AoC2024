@@ -1,0 +1,16 @@
+(a_x * a_presses) + (b_x * b_presses) = prize_x
+(a_y * a_presses) + (b_y * b_presses) = prize_y
+3 * a_presses + b_presses = cost
+
+
+a_cycles + b_cycles = total_cycles
+(a_cycles + a_presses) * a_x + (b_cycles + b_presses) * b_x = prize_x
+(a_cycles + a_presses) * a_x + (total_cycles  + b_presses) * b_x = prize_x
+
+
+a * x + b * y = z
+
+
+94 * 22 = 2068
+if all a: 22*67 = 1474
+if all b: 94*34 = 3196
