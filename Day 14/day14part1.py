@@ -1,6 +1,6 @@
 import re
 
-TEST = "test.txt"
+TEST = "test2.txt"
 TEST_HEIGHTWIDTH = (7, 11)
 INPUT = "input.txt"
 INPUT_HEIGHTWIDTH =(103, 101)

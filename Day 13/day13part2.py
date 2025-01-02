@@ -3,7 +3,7 @@ RE_BUTTON_A = r"Button A: X\+(\d+), Y\+(\d+)"
 RE_BUTTON_B = r"Button B: X\+(\d+), Y\+(\d+)"
 RE_PRIZE = r"Prize: X=(\d+), Y=(\d+)"
 
-TEST = "test.txt"
+TEST = "test2.txt"
 INPUT = "input.txt"
 
 

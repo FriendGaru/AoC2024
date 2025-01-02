@@ -1,4 +1,4 @@
-TEST = "test.txt"
+TEST = "test2.txt"
 TEST2 = "test2.txt"
 INPUT = "input.txt"
 

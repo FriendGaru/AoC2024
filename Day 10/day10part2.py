@@ -1,4 +1,4 @@
-TEST = "test.txt"
+TEST = "test2.txt"
 INPUT = "input.txt"
 
 def add_coords(coord_a:tuple[int,int], coord_b:tuple[int,int]):
