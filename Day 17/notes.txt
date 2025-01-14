@@ -1,0 +1,25 @@
+0:  2, bst (A % 8  ->  B)
+1:  4,
+2:  1, bxl (Bitwise XOR B ^ 7  ->  B)
+3:  7,
+4:  7, cdv (A // 2**B  ->  C)
+5:  5,
+6:  0, adv (A // 8  ->  A)
+7:  3,
+8:  4, bxc (Bitwise XOR B ^ C  ->  B)
+9: 0,
+10: 1, bxl (Bitwise XOR B ^ 7  ->  B)
+11: 7,
+12: 5, out (B % 8  ->  Output)
+13: 5,
+14: 3, jnz (If A > 0, Jump i = 1)
+15: 0,
+
+
+Take last 3 bits of A, put them in B
+Magic B, still 3 bits
+Get bit 0-7 smallest from A, put it in C
+Remove last 3 bits from A
+
+
+[7, 2, 6, 0, 1, 1, 0, 5, 2, 2, 6, 2, 1, 6, 3, 3]
